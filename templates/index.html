@@ -1,0 +1,18 @@
+<form action="{{ url_for('recommend') }}" method="post">
+    <label for="mood">Mood:</label>
+    <select name="mood" id="mood">
+        <option value="happy">Happy</option>
+        <option value="sad">Sad</option>
+        <option value="stressed">Stressed</option>
+        <option value="relaxed">Relaxed</option>
+    </select>
+    
+    <label for="cuisine">Cuisine:</label>
+    <input type="text" name="cuisine" id="cuisine" required>
+    
+    <input type="submit" value="Get Recommendation">
+</form>
+
+{% if recommendation %}
+    <pre>{{ recommendation }}</pre>
+{% endif %}
