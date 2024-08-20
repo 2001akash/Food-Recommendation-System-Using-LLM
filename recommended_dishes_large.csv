@@ -1,0 +1,451 @@
+Mood,Preference,Cuisine,TimeOfDay,Weather,DietaryRestrictions,DishName,IngredientsAvailable,PreviousDishRatings,Weight,ResponseCount,Feedback
+1,2,North Indian,2,1,1,Pesarattu,"Green Gram, Ginger, Spices, Onions",4,Moderate,58,2
+0,0,Modern Indian,3,0,0,Rogan Josh,"Lamb, Yogurt, Spices, Onions",2,Moderate,16,5
+1,1,North Indian,3,0,1,Lamb Chops,"Lamb, Garlic, Rosemary, Olive Oil",2,Light,50,3
+3,1,Continental,1,0,1,Aloo Pitika,"Potatoes, Mustard Oil, Onions, Chilies",3,Moderate,74,4
+1,1,Punjabi,1,1,0,Kadala Curry,"Chickpeas, Coconut, Spices, Onions",5,Moderate,50,2
+1,1,Modern Indian,1,1,1,Grilled Prawns,"Prawns, Garlic, Lemon, Olive Oil",2,Light,65,4
+0,1,Parsi,3,3,0,Pesarattu,"Green Gram, Ginger, Spices, Onions",2,Light,28,5
+3,1,South Indian,3,3,0,Paneer Tikka,"Paneer, Yogurt, Spices, Lemon",3,Light,39,5
+2,1,Continental,3,3,2,Chole Bhature,"Chickpeas, Flour, Spices, Yogurt",5,Light,20,1
+0,2,Mediterranean,1,0,2,Chicken Cafreal,"Chicken, Spices, Vinegar, Garlic",2,Moderate,95,4
+1,0,North Indian,1,1,2,Pasta Carbonara,"Pasta, Eggs, Bacon, Cheese",2,Moderate,86,3
+2,0,Italian,2,2,1,Aloo Pitika,"Potatoes, Mustard Oil, Onions, Chilies",1,Heavy,73,4
+0,1,Asian,1,2,2,Kadhi,"Yogurt, Chickpea Flour, Spices, Onions",4,Light,25,5
+3,0,Punjabi,3,0,2,Burrito,"Tortilla, Beans, Rice, Meat",4,Heavy,49,5
+1,2,Asian,1,3,0,Rasgulla,"Chhena, Sugar, Water, Cardamom",4,Moderate,39,5
+3,2,Punjabi,3,3,0,Paneer Tikka,"Paneer, Yogurt, Spices, Lemon",5,Heavy,80,1
+1,0,Modern Indian,2,1,1,Pesarattu,"Green Gram, Ginger, Spices, Onions",1,Moderate,93,2
+0,0,Mughlai,2,1,2,Chemmeen Curry,"Prawns, Coconut Milk, Spices, Tamarind",2,Moderate,72,4
+0,0,Mughlai,1,0,1,Shorshe Ilish,"Hilsa Fish, Mustard, Spices, Chilies",2,Light,66,1
+2,1,Continental,1,0,2,Rasgulla,"Chhena, Sugar, Water, Cardamom",3,Light,34,1
+0,2,Mediterranean,1,1,1,Thalipeeth,"Flours, Spices, Onions, Coriander",2,Light,44,4
+3,0,North Indian,3,3,0,Kozhukattai,"Rice Flour, Coconut, Jaggery, Cardamom",2,Heavy,65,5
+0,0,Punjabi,3,3,2,Pulihora,"Rice, Tamarind, Spices, Peanuts",2,Heavy,30,1
+0,1,North Indian,2,2,1,Pav Bhaji,"Vegetables, Butter, Bread, Spices",4,Light,64,4
+1,2,Italian,1,3,0,Masala Dosa,"Rice, Lentils, Potato, Spices",5,Heavy,62,4
+0,0,Parsi,1,2,0,Pav Bhaji,"Vegetables, Butter, Bread, Spices",4,Moderate,54,5
+0,2,North Indian,1,1,0,Mysore Pak,"Gram Flour, Ghee, Sugar, Cardamom",2,Moderate,67,5
+3,2,Asian,2,0,2,Zunka Bhakar,"Chickpea Flour, Spices, Onions, Coriander",1,Moderate,41,1
+2,2,Modern Indian,3,2,0,Burrito,"Tortilla, Beans, Rice, Meat",5,Light,14,5
+2,2,Italian,3,3,1,Patra,"Colocasia Leaves, Gram Flour, Spices, Tamarind",4,Heavy,79,5
+2,0,Parsi,3,1,1,Lamb Chops,"Lamb, Garlic, Rosemary, Olive Oil",2,Light,63,2
+0,2,North Indian,2,2,0,Fish Curry,"Fish, Coconut Milk, Spices, Tamarind",4,Moderate,98,1
+3,0,Seafood,1,3,1,Sushi Rolls,"Rice, Seaweed, Fish, Vegetables",3,Moderate,62,2
+3,1,Seafood,2,0,2,Bamboo Shoot Fry,"Bamboo Shoots, Spices, Oil, Onions",4,Light,88,4
+1,2,Mughlai,2,3,2,Lamb Chops,"Lamb, Garlic, Rosemary, Olive Oil",5,Light,72,1
+3,0,Modern Indian,3,1,1,Chemmeen Curry,"Prawns, Coconut Milk, Spices, Tamarind",3,Moderate,84,5
+3,0,Goan,2,0,0,Grilled Prawns,"Prawns, Garlic, Lemon, Olive Oil",3,Moderate,52,2
+2,2,Mughlai,2,3,1,Sushi Rolls,"Rice, Seaweed, Fish, Vegetables",4,Light,39,5
+1,0,North Indian,3,1,0,Rasgulla,"Chhena, Sugar, Water, Cardamom",1,Light,79,5
+2,1,Continental,2,3,0,Burrito,"Tortilla, Beans, Rice, Meat",2,Moderate,23,2
+0,2,Continental,1,0,2,Masala Dosa,"Rice, Lentils, Potato, Spices",2,Moderate,14,2
+1,1,Punjabi,2,3,2,Beef Stroganoff,"Beef, Mushrooms, Sour Cream, Onions",5,Heavy,17,1
+1,2,North Indian,3,0,2,Pulihora,"Rice, Tamarind, Spices, Peanuts",3,Heavy,27,3
+1,2,Punjabi,1,1,2,Dhokla,"Rice, Chickpeas, Yogurt, Spices",1,Light,69,2
+2,0,South Indian,2,3,2,Vegan Salad,"Lettuce, Tomato, Cucumber, Olive Oil",1,Moderate,48,2
+2,1,Goan,3,0,2,Tandoori Chicken,"Chicken, Yogurt, Spices, Lemon",3,Heavy,70,1
+3,2,Mediterranean,3,1,2,Pani Puri,"Flour, Spices, Potatoes, Tamarind",4,Moderate,54,3
+1,1,Parsi,1,1,2,Thalipeeth,"Flours, Spices, Onions, Coriander",4,Light,21,4
+3,0,Goan,2,0,2,Dhokla,"Rice, Chickpeas, Yogurt, Spices",1,Light,20,2
+3,2,Mediterranean,3,0,1,Vegan Salad,"Lettuce, Tomato, Cucumber, Olive Oil",1,Light,63,5
+2,0,Goan,2,2,1,Pulihora,"Rice, Tamarind, Spices, Peanuts",2,Light,35,5
+0,0,Seafood,2,2,0,Masala Dosa,"Rice, Lentils, Potato, Spices",5,Light,75,5
+1,0,Mughlai,3,2,0,Dhokla,"Rice, Chickpeas, Yogurt, Spices",1,Heavy,26,4
+0,0,Modern Indian,3,1,0,Khar,"Vegetables, Pulses, Alkali, Spices",2,Moderate,63,3
+2,0,Mediterranean,2,3,1,Spring Rolls,"Cabbage, Carrot, Mushrooms, Wrapper",2,Moderate,47,5
+2,1,Continental,2,1,0,Thalipeeth,"Flours, Spices, Onions, Coriander",4,Moderate,72,2
+0,0,South Indian,1,3,0,Pav Bhaji,"Vegetables, Butter, Bread, Spices",3,Light,71,1
+2,1,North Indian,2,2,0,Chole Bhature,"Chickpeas, Flour, Spices, Yogurt",4,Moderate,34,1
+0,1,North Indian,2,1,2,Khar,"Vegetables, Pulses, Alkali, Spices",5,Moderate,85,2
+0,0,Italian,1,2,1,Dhokla,"Rice, Chickpeas, Yogurt, Spices",2,Moderate,55,4
+0,0,Seafood,2,0,0,Chicken Biryani,"Chicken, Rice, Spices, Yogurt",3,Moderate,79,2
+3,1,Modern Indian,2,3,1,Butter Chicken,"Chicken, Butter, Cream, Spices",1,Moderate,30,4
+0,2,Seafood,2,2,1,Vindaloo,"Pork, Vinegar, Spices, Garlic",2,Moderate,44,5
+1,0,Italian,2,3,0,Bamboo Shoot Fry,"Bamboo Shoots, Spices, Oil, Onions",3,Light,21,2
+1,2,Asian,2,1,0,Misal Pav,"Sprouts, Spices, Bread, Onions",1,Moderate,44,2
+1,0,Continental,1,2,0,Rasgulla,"Chhena, Sugar, Water, Cardamom",4,Light,36,4
+3,0,Mughlai,2,3,2,Chicken Cafreal,"Chicken, Spices, Vinegar, Garlic",3,Light,14,1
+1,0,Mediterranean,1,0,0,Fish Curry,"Fish, Coconut Milk, Spices, Tamarind",4,Light,27,1
+0,2,Parsi,1,2,1,Fish Curry,"Fish, Coconut Milk, Spices, Tamarind",5,Heavy,68,3
+0,2,North Indian,1,0,2,Appam,"Rice, Coconut, Yeast, Salt",4,Heavy,64,4
+0,0,Mughlai,2,3,0,Burrito,"Tortilla, Beans, Rice, Meat",5,Moderate,17,1
+1,0,North Indian,2,1,2,Gongura Pachadi,"Sorrel Leaves, Spices, Garlic, Chilies",5,Light,13,1
+3,0,Italian,1,0,1,Rasgulla,"Chhena, Sugar, Water, Cardamom",2,Moderate,13,3
+0,0,Punjabi,1,0,2,Seafood Paella,"Rice, Seafood, Saffron, Vegetables",5,Light,62,5
+2,1,Mediterranean,2,0,1,Mysore Pak,"Gram Flour, Ghee, Sugar, Cardamom",1,Moderate,24,3
+2,1,Italian,3,0,0,Pav Bhaji,"Vegetables, Butter, Bread, Spices",3,Moderate,35,1
+3,1,North Indian,1,1,0,Kadala Curry,"Chickpeas, Coconut, Spices, Onions",1,Heavy,82,2
+1,1,Mediterranean,2,2,0,Sorpotel,"Pork, Vinegar, Spices, Onions",1,Moderate,73,1
+0,0,North Indian,3,0,0,Chicken Biryani,"Chicken, Rice, Spices, Yogurt",2,Light,84,1
+3,2,Modern Indian,3,0,2,Hyderabadi Biryani,"Rice, Meat, Spices, Yogurt",4,Heavy,28,1
+0,2,South Indian,1,0,0,Kadala Curry,"Chickpeas, Coconut, Spices, Onions",2,Light,93,5
+3,2,Goan,3,2,0,Spring Rolls,"Cabbage, Carrot, Mushrooms, Wrapper",3,Heavy,30,5
+1,0,Asian,1,1,2,Gongura Pachadi,"Sorrel Leaves, Spices, Garlic, Chilies",4,Moderate,57,2
+3,2,Mughlai,3,1,2,Appam,"Rice, Coconut, Yeast, Salt",4,Heavy,80,2
+3,2,South Indian,1,0,0,Aloo Pitika,"Potatoes, Mustard Oil, Onions, Chilies",4,Light,67,5
+1,1,Seafood,3,0,0,Pani Puri,"Flour, Spices, Potatoes, Tamarind",4,Heavy,55,2
+3,0,North Indian,2,2,2,Rogan Josh,"Lamb, Yogurt, Spices, Onions",3,Light,48,5
+3,1,North Indian,3,2,2,Chicken Biryani,"Chicken, Rice, Spices, Yogurt",3,Light,72,1
+3,0,South Indian,1,0,0,Sushi Rolls,"Rice, Seaweed, Fish, Vegetables",4,Heavy,100,5
+2,0,Italian,1,2,0,Neer Dosa,"Rice, Coconut, Water, Salt",4,Light,51,2
+0,1,Goan,3,0,1,Vegan Salad,"Lettuce, Tomato, Cucumber, Olive Oil",1,Moderate,100,1
+2,2,North Indian,2,1,1,Pani Puri,"Flour, Spices, Potatoes, Tamarind",1,Heavy,40,5
+2,2,Modern Indian,1,2,1,Undhiyu,"Vegetables, Spices, Gram Flour, Oil",3,Light,21,2
+3,2,Italian,2,1,1,Mutton Curry,"Mutton, Spices, Onions, Tomatoes",4,Moderate,54,4
+2,1,Mughlai,2,2,0,Khar,"Vegetables, Pulses, Alkali, Spices",5,Moderate,84,2
+0,1,Punjabi,3,3,2,Pulihora,"Rice, Tamarind, Spices, Peanuts",5,Light,63,4
+3,0,Asian,2,0,0,Grilled Prawns,"Prawns, Garlic, Lemon, Olive Oil",2,Light,27,5
+0,1,North Indian,3,3,2,Burrito,"Tortilla, Beans, Rice, Meat",4,Moderate,32,1
+2,1,Mediterranean,1,1,1,Gongura Pachadi,"Sorrel Leaves, Spices, Garlic, Chilies",2,Heavy,95,1
+1,2,North Indian,3,3,2,Aloo Pitika,"Potatoes, Mustard Oil, Onions, Chilies",2,Moderate,22,2
+1,1,North Indian,2,1,1,Hyderabadi Biryani,"Rice, Meat, Spices, Yogurt",4,Heavy,15,2
+1,0,Italian,1,1,2,Pav Bhaji,"Vegetables, Butter, Bread, Spices",1,Moderate,97,1
+3,2,North Indian,1,1,0,Rasgulla,"Chhena, Sugar, Water, Cardamom",3,Heavy,26,1
+1,2,Continental,1,1,1,Pani Puri,"Flour, Spices, Potatoes, Tamarind",2,Heavy,60,2
+1,2,Asian,1,1,0,Mutton Curry,"Mutton, Spices, Onions, Tomatoes",2,Light,11,1
+0,2,Continental,3,3,2,Appam,"Rice, Coconut, Yeast, Salt",1,Light,46,4
+2,2,Parsi,1,2,1,Chicken Biryani,"Chicken, Rice, Spices, Yogurt",2,Light,33,1
+0,1,Modern Indian,1,1,0,Dhokla,"Rice, Chickpeas, Yogurt, Spices",2,Heavy,52,4
+0,0,Goan,1,1,2,Chole Bhature,"Chickpeas, Flour, Spices, Yogurt",2,Heavy,85,4
+3,2,Mughlai,2,1,2,Daal Baati Churma,"Lentils, Wheat, Ghee, Spices",2,Heavy,22,3
+1,2,Asian,1,2,0,Masor Tenga,"Fish, Tomatoes, Spices, Lime",5,Heavy,28,5
+1,0,Punjabi,1,0,2,Lamb Chops,"Lamb, Garlic, Rosemary, Olive Oil",3,Light,24,5
+3,2,Punjabi,2,0,0,Beef Stroganoff,"Beef, Mushrooms, Sour Cream, Onions",2,Heavy,46,3
+2,1,Mediterranean,3,1,1,Handvo,"Rice, Lentils, Spices, Vegetables",1,Moderate,92,2
+1,2,Parsi,1,3,1,Kadhi,"Yogurt, Chickpea Flour, Spices, Onions",5,Heavy,20,4
+3,2,Parsi,3,2,1,Falafel Wrap,"Chickpeas, Flour, Spices, Tahini",2,Moderate,12,3
+0,2,North Indian,3,3,1,Seafood Paella,"Rice, Seafood, Saffron, Vegetables",4,Light,16,1
+1,2,Seafood,1,0,0,Rogan Josh,"Lamb, Yogurt, Spices, Onions",3,Heavy,52,3
+3,2,Seafood,2,2,2,Gongura Pachadi,"Sorrel Leaves, Spices, Garlic, Chilies",5,Moderate,29,5
+1,1,Continental,2,0,1,Spring Rolls,"Cabbage, Carrot, Mushrooms, Wrapper",1,Moderate,27,3
+2,1,Mughlai,2,3,1,Rasgulla,"Chhena, Sugar, Water, Cardamom",2,Heavy,100,1
+2,0,Punjabi,2,3,2,Neer Dosa,"Rice, Coconut, Water, Salt",5,Moderate,94,3
+2,1,Asian,2,3,0,Masor Tenga,"Fish, Tomatoes, Spices, Lime",1,Light,82,4
+1,2,Mughlai,1,1,2,Kadala Curry,"Chickpeas, Coconut, Spices, Onions",4,Moderate,95,5
+3,0,Italian,1,0,2,Gutti Vankaya,"Eggplant, Spices, Tamarind, Onions",2,Moderate,58,5
+1,2,Parsi,1,1,1,Lamb Chops,"Lamb, Garlic, Rosemary, Olive Oil",4,Heavy,30,3
+3,0,North Indian,1,2,0,Chicken Biryani,"Chicken, Rice, Spices, Yogurt",4,Heavy,73,1
+2,2,Mediterranean,1,2,1,Kadala Curry,"Chickpeas, Coconut, Spices, Onions",3,Light,16,2
+1,1,Parsi,2,1,0,Tofu Stir Fry,"Tofu, Vegetables, Soy Sauce, Ginger",1,Moderate,42,2
+0,1,Modern Indian,2,0,1,Falafel Wrap,"Chickpeas, Flour, Spices, Tahini",5,Heavy,52,4
+0,2,Mediterranean,2,3,0,Pani Puri,"Flour, Spices, Potatoes, Tamarind",1,Light,94,2
+3,0,Goan,3,3,1,Kadala Curry,"Chickpeas, Coconut, Spices, Onions",5,Light,80,3
+0,2,Parsi,1,1,2,Fish Curry,"Fish, Coconut Milk, Spices, Tamarind",3,Moderate,15,3
+1,0,Goan,1,1,2,Vegan Salad,"Lettuce, Tomato, Cucumber, Olive Oil",1,Heavy,72,1
+2,2,Italian,2,1,2,Rogan Josh,"Lamb, Yogurt, Spices, Onions",4,Heavy,41,5
+2,1,Asian,1,3,2,Eromba,"Fermented Fish, Vegetables, Chilies, Garlic",3,Moderate,38,5
+3,2,Modern Indian,3,2,0,Kozhukattai,"Rice Flour, Coconut, Jaggery, Cardamom",1,Heavy,17,3
+3,2,Asian,3,3,2,Pulihora,"Rice, Tamarind, Spices, Peanuts",2,Moderate,83,4
+0,1,Mughlai,3,0,2,Masor Tenga,"Fish, Tomatoes, Spices, Lime",1,Light,92,4
+0,0,Mughlai,1,0,2,Makki Di Roti,"Cornmeal, Water, Ghee, Spices",1,Moderate,85,3
+1,0,Goan,1,1,2,Shorshe Ilish,"Hilsa Fish, Mustard, Spices, Chilies",2,Heavy,77,4
+1,1,Goan,2,3,2,Chicken Cafreal,"Chicken, Spices, Vinegar, Garlic",1,Light,44,3
+3,1,North Indian,2,2,0,Kadala Curry,"Chickpeas, Coconut, Spices, Onions",2,Moderate,18,2
+2,1,Punjabi,2,0,2,Sorpotel,"Pork, Vinegar, Spices, Onions",5,Moderate,80,3
+2,2,Mediterranean,2,0,0,Sarson Ka Saag,"Mustard Greens, Spices, Ghee, Onions",4,Light,25,5
+1,1,Mughlai,3,1,2,Undhiyu,"Vegetables, Spices, Gram Flour, Oil",1,Heavy,55,5
+2,2,Italian,1,2,0,Bebinca,"Coconut Milk, Flour, Sugar, Eggs",1,Heavy,49,2
+0,2,Continental,3,0,1,Patra,"Colocasia Leaves, Gram Flour, Spices, Tamarind",3,Heavy,45,1
+1,2,Italian,1,3,1,Daal Baati Churma,"Lentils, Wheat, Ghee, Spices",5,Moderate,54,5
+0,0,Asian,2,2,2,Daal Baati Churma,"Lentils, Wheat, Ghee, Spices",3,Heavy,51,4
+3,2,Italian,1,2,1,Chole Bhature,"Chickpeas, Flour, Spices, Yogurt",4,Heavy,56,2
+2,1,Seafood,2,1,0,Sarson Ka Saag,"Mustard Greens, Spices, Ghee, Onions",3,Moderate,13,3
+0,1,Mughlai,2,1,2,Kadala Curry,"Chickpeas, Coconut, Spices, Onions",4,Light,32,4
+1,0,Asian,3,1,0,Sarson Ka Saag,"Mustard Greens, Spices, Ghee, Onions",3,Light,92,2
+1,2,Mediterranean,1,3,1,Beef Stroganoff,"Beef, Mushrooms, Sour Cream, Onions",3,Light,39,5
+1,1,Mughlai,3,2,1,Pani Puri,"Flour, Spices, Potatoes, Tamarind",4,Moderate,47,1
+1,2,Mughlai,2,2,0,Pani Puri,"Flour, Spices, Potatoes, Tamarind",3,Heavy,69,1
+1,1,Mediterranean,3,2,0,Pulihora,"Rice, Tamarind, Spices, Peanuts",1,Light,65,1
+2,0,Seafood,3,3,2,Rava Idli,"Semolina, Yogurt, Mustard Seeds, Spices",2,Heavy,92,3
+2,2,Asian,3,0,2,Chemmeen Curry,"Prawns, Coconut Milk, Spices, Tamarind",4,Moderate,28,3
+1,0,Parsi,2,1,2,Pesarattu,"Green Gram, Ginger, Spices, Onions",5,Moderate,92,4
+1,0,North Indian,3,2,0,Mutton Curry,"Mutton, Spices, Onions, Tomatoes",4,Heavy,40,2
+3,1,Modern Indian,3,0,0,Bengali Fish Fry,"Fish, Breadcrumbs, Spices, Eggs",2,Moderate,46,4
+1,2,Punjabi,1,1,2,Dhokla,"Rice, Chickpeas, Yogurt, Spices",1,Light,69,4
+3,2,Punjabi,2,2,2,Bebinca,"Coconut Milk, Flour, Sugar, Eggs",4,Moderate,99,1
+1,1,Asian,1,3,1,Sushi Rolls,"Rice, Seaweed, Fish, Vegetables",4,Light,65,4
+2,1,Continental,3,1,2,Pav Bhaji,"Vegetables, Butter, Bread, Spices",5,Heavy,72,1
+2,2,Modern Indian,3,2,1,Undhiyu,"Vegetables, Spices, Gram Flour, Oil",3,Heavy,29,3
+0,2,Goan,2,1,1,Fish Curry,"Fish, Coconut Milk, Spices, Tamarind",5,Moderate,35,4
+2,0,Mughlai,1,1,2,Spring Rolls,"Cabbage, Carrot, Mushrooms, Wrapper",5,Light,17,4
+1,0,South Indian,3,2,2,Pesarattu,"Green Gram, Ginger, Spices, Onions",5,Heavy,74,5
+1,2,North Indian,1,0,0,Vegan Salad,"Lettuce, Tomato, Cucumber, Olive Oil",3,Moderate,73,4
+1,2,Parsi,1,2,1,Gongura Pachadi,"Sorrel Leaves, Spices, Garlic, Chilies",3,Moderate,91,1
+0,0,Punjabi,3,2,1,Vegan Salad,"Lettuce, Tomato, Cucumber, Olive Oil",3,Heavy,37,5
+0,0,Continental,1,1,0,Kozhukattai,"Rice Flour, Coconut, Jaggery, Cardamom",5,Light,32,5
+0,0,Mughlai,1,2,0,Pesarattu,"Green Gram, Ginger, Spices, Onions",5,Light,68,2
+3,2,Parsi,2,2,2,Pani Puri,"Flour, Spices, Potatoes, Tamarind",2,Light,84,3
+2,2,South Indian,1,1,0,Neer Dosa,"Rice, Coconut, Water, Salt",4,Heavy,40,1
+3,0,Mughlai,1,1,1,Shorshe Ilish,"Hilsa Fish, Mustard, Spices, Chilies",1,Light,84,1
+0,1,Mughlai,3,3,1,Sanpiau,"Rice, Fish, Vegetables, Spices",1,Heavy,74,1
+0,0,Asian,2,1,1,Masala Dosa,"Rice, Lentils, Potato, Spices",2,Moderate,48,4
+0,1,Goan,2,3,2,Sarson Ka Saag,"Mustard Greens, Spices, Ghee, Onions",1,Moderate,69,4
+1,2,Italian,1,1,1,Pesarattu,"Green Gram, Ginger, Spices, Onions",5,Light,86,2
+3,0,Parsi,2,3,1,Sushi Rolls,"Rice, Seaweed, Fish, Vegetables",2,Heavy,82,2
+0,0,Asian,1,3,0,Burrito,"Tortilla, Beans, Rice, Meat",5,Moderate,86,3
+3,0,Mughlai,2,1,1,Eromba,"Fermented Fish, Vegetables, Chilies, Garlic",1,Heavy,91,1
+0,0,Asian,3,2,1,Zunka Bhakar,"Chickpea Flour, Spices, Onions, Coriander",4,Heavy,62,5
+2,0,South Indian,2,2,1,Pesarattu,"Green Gram, Ginger, Spices, Onions",3,Heavy,77,2
+2,0,Mughlai,3,2,1,Kozhukattai,"Rice Flour, Coconut, Jaggery, Cardamom",5,Heavy,49,5
+1,1,South Indian,1,0,0,Gutti Vankaya,"Eggplant, Spices, Tamarind, Onions",2,Moderate,30,4
+0,0,Italian,2,0,2,Handvo,"Rice, Lentils, Spices, Vegetables",3,Light,47,2
+3,2,Seafood,3,3,0,Seafood Paella,"Rice, Seafood, Saffron, Vegetables",3,Moderate,38,3
+2,1,Punjabi,1,0,0,Handvo,"Rice, Lentils, Spices, Vegetables",4,Moderate,100,4
+0,1,Parsi,1,0,1,Lamb Chops,"Lamb, Garlic, Rosemary, Olive Oil",3,Moderate,90,3
+1,1,Continental,1,2,2,Rogan Josh,"Lamb, Yogurt, Spices, Onions",4,Heavy,43,1
+0,2,Modern Indian,3,3,0,Neer Dosa,"Rice, Coconut, Water, Salt",3,Light,55,4
+0,1,Mughlai,1,1,1,Tofu Stir Fry,"Tofu, Vegetables, Soy Sauce, Ginger",3,Light,57,4
+0,2,Asian,2,0,1,Chole Bhature,"Chickpeas, Flour, Spices, Yogurt",3,Heavy,100,2
+3,2,South Indian,1,3,1,Lamb Chops,"Lamb, Garlic, Rosemary, Olive Oil",3,Heavy,14,4
+2,1,Mughlai,2,3,2,Sanpiau,"Rice, Fish, Vegetables, Spices",2,Heavy,59,4
+0,2,Italian,2,3,2,Rogan Josh,"Lamb, Yogurt, Spices, Onions",3,Heavy,83,3
+2,0,South Indian,1,2,0,Mutton Curry,"Mutton, Spices, Onions, Tomatoes",5,Heavy,98,4
+1,0,Punjabi,1,2,0,Khar,"Vegetables, Pulses, Alkali, Spices",1,Light,40,2
+1,0,Mughlai,3,3,2,Sarson Ka Saag,"Mustard Greens, Spices, Ghee, Onions",5,Light,43,2
+1,1,South Indian,2,2,0,Vindaloo,"Pork, Vinegar, Spices, Garlic",3,Light,97,2
+3,1,Punjabi,1,2,2,Bamboo Shoot Fry,"Bamboo Shoots, Spices, Oil, Onions",5,Moderate,44,5
+3,2,Modern Indian,3,1,2,Hyderabadi Biryani,"Rice, Meat, Spices, Yogurt",3,Moderate,18,4
+2,1,Parsi,2,3,0,Shorshe Ilish,"Hilsa Fish, Mustard, Spices, Chilies",4,Light,34,2
+3,0,Mediterranean,3,1,0,Bebinca,"Coconut Milk, Flour, Sugar, Eggs",5,Light,17,1
+1,0,Punjabi,2,0,1,Makki Di Roti,"Cornmeal, Water, Ghee, Spices",3,Heavy,73,2
+3,1,Italian,1,2,2,Sarson Ka Saag,"Mustard Greens, Spices, Ghee, Onions",1,Heavy,12,2
+2,2,Continental,1,1,0,Handvo,"Rice, Lentils, Spices, Vegetables",3,Heavy,12,1
+0,1,Italian,3,1,0,Paneer Tikka,"Paneer, Yogurt, Spices, Lemon",4,Moderate,56,5
+1,2,Mediterranean,1,1,1,Gongura Pachadi,"Sorrel Leaves, Spices, Garlic, Chilies",4,Moderate,66,1
+0,0,Parsi,3,0,2,Sarson Ka Saag,"Mustard Greens, Spices, Ghee, Onions",5,Heavy,32,5
+0,2,Mughlai,3,2,0,Misal Pav,"Sprouts, Spices, Bread, Onions",2,Moderate,22,4
+1,0,Goan,2,1,2,Sarson Ka Saag,"Mustard Greens, Spices, Ghee, Onions",1,Light,96,4
+3,2,Seafood,2,3,0,Chemmeen Curry,"Prawns, Coconut Milk, Spices, Tamarind",1,Light,28,5
+1,0,Modern Indian,3,1,1,Rasgulla,"Chhena, Sugar, Water, Cardamom",3,Light,69,5
+0,0,Parsi,1,1,1,Tofu Stir Fry,"Tofu, Vegetables, Soy Sauce, Ginger",4,Heavy,100,4
+0,1,South Indian,1,2,0,Sambar,"Lentils, Tamarind, Spices, Vegetables",2,Moderate,21,4
+0,1,Italian,1,2,0,Seafood Paella,"Rice, Seafood, Saffron, Vegetables",2,Moderate,80,3
+2,1,Mediterranean,3,1,2,Shorshe Ilish,"Hilsa Fish, Mustard, Spices, Chilies",2,Moderate,69,1
+1,1,Punjabi,2,2,2,Bengali Fish Fry,"Fish, Breadcrumbs, Spices, Eggs",5,Heavy,66,5
+0,2,Asian,3,3,1,Rasgulla,"Chhena, Sugar, Water, Cardamom",5,Moderate,30,3
+2,2,Asian,2,1,1,Chole Bhature,"Chickpeas, Flour, Spices, Yogurt",3,Heavy,57,4
+0,0,Parsi,1,2,2,Rasgulla,"Chhena, Sugar, Water, Cardamom",4,Moderate,23,5
+3,0,Mughlai,2,0,2,Butter Chicken,"Chicken, Butter, Cream, Spices",2,Moderate,39,4
+2,1,Goan,2,1,0,Pesarattu,"Green Gram, Ginger, Spices, Onions",4,Heavy,20,5
+0,2,Modern Indian,3,1,2,Handvo,"Rice, Lentils, Spices, Vegetables",4,Light,65,5
+0,1,Continental,1,0,0,Vada Pav,"Potato, Bread, Spices, Chutney",1,Moderate,56,5
+3,1,Modern Indian,1,2,2,Gongura Pachadi,"Sorrel Leaves, Spices, Garlic, Chilies",5,Moderate,81,1
+0,0,Punjabi,2,1,0,Lamb Chops,"Lamb, Garlic, Rosemary, Olive Oil",5,Light,64,1
+3,1,Asian,1,2,2,Butter Chicken,"Chicken, Butter, Cream, Spices",3,Heavy,98,5
+2,0,Punjabi,3,3,1,Pesarattu,"Green Gram, Ginger, Spices, Onions",1,Light,42,2
+1,2,Goan,1,1,1,Butter Chicken,"Chicken, Butter, Cream, Spices",4,Light,11,3
+3,0,Continental,1,2,2,Kozhukattai,"Rice Flour, Coconut, Jaggery, Cardamom",4,Light,81,4
+2,2,Goan,3,3,2,Gutti Vankaya,"Eggplant, Spices, Tamarind, Onions",4,Moderate,20,3
+0,2,South Indian,2,1,2,Appam,"Rice, Coconut, Yeast, Salt",3,Light,68,4
+0,2,Mughlai,3,2,1,Fish Curry,"Fish, Coconut Milk, Spices, Tamarind",1,Heavy,77,5
+3,2,Mughlai,3,0,0,Sambar,"Lentils, Tamarind, Spices, Vegetables",1,Moderate,99,3
+0,0,Parsi,1,2,1,Misal Pav,"Sprouts, Spices, Bread, Onions",4,Heavy,13,2
+1,1,Asian,1,2,2,Masala Dosa,"Rice, Lentils, Potato, Spices",2,Heavy,50,2
+0,0,Seafood,2,1,0,Kashmiri Dum Aloo,"Potatoes, Yogurt, Spices, Onions",5,Heavy,76,2
+2,1,Seafood,2,1,0,Grilled Prawns,"Prawns, Garlic, Lemon, Olive Oil",3,Moderate,87,4
+0,1,Modern Indian,2,3,0,Handvo,"Rice, Lentils, Spices, Vegetables",3,Light,89,5
+0,1,South Indian,2,2,2,Pani Puri,"Flour, Spices, Potatoes, Tamarind",1,Heavy,26,2
+3,0,Modern Indian,3,2,0,Sanpiau,"Rice, Fish, Vegetables, Spices",5,Heavy,24,4
+0,1,Seafood,2,2,1,Aloo Pitika,"Potatoes, Mustard Oil, Onions, Chilies",4,Light,40,2
+2,0,Punjabi,3,3,0,Gutti Vankaya,"Eggplant, Spices, Tamarind, Onions",3,Light,38,3
+3,1,Continental,1,1,1,Rogan Josh,"Lamb, Yogurt, Spices, Onions",3,Heavy,80,1
+0,2,Punjabi,1,0,0,Shorshe Ilish,"Hilsa Fish, Mustard, Spices, Chilies",5,Light,47,1
+1,2,Asian,1,1,2,Sushi Rolls,"Rice, Seaweed, Fish, Vegetables",2,Moderate,80,3
+1,1,Mediterranean,2,0,1,Pulihora,"Rice, Tamarind, Spices, Peanuts",4,Moderate,47,5
+2,2,Goan,2,0,1,Sushi Rolls,"Rice, Seaweed, Fish, Vegetables",3,Moderate,83,2
+2,2,Seafood,1,2,1,Rogan Josh,"Lamb, Yogurt, Spices, Onions",4,Moderate,91,1
+0,1,Mughlai,3,2,2,Pesarattu,"Green Gram, Ginger, Spices, Onions",2,Heavy,20,5
+0,2,Mughlai,1,1,1,Neer Dosa,"Rice, Coconut, Water, Salt",4,Light,69,5
+2,2,Continental,1,2,0,Rava Idli,"Semolina, Yogurt, Mustard Seeds, Spices",5,Moderate,31,3
+0,1,Goan,3,3,0,Seafood Paella,"Rice, Seafood, Saffron, Vegetables",1,Moderate,81,5
+2,0,Punjabi,3,2,2,Kadhi,"Yogurt, Chickpea Flour, Spices, Onions",2,Light,19,2
+3,1,North Indian,1,2,0,Bengali Fish Fry,"Fish, Breadcrumbs, Spices, Eggs",2,Heavy,99,5
+0,2,Continental,3,1,1,Butter Chicken,"Chicken, Butter, Cream, Spices",2,Moderate,47,5
+2,0,North Indian,2,1,0,Pani Puri,"Flour, Spices, Potatoes, Tamarind",5,Moderate,53,3
+2,0,Punjabi,1,0,2,Zunka Bhakar,"Chickpea Flour, Spices, Onions, Coriander",5,Light,27,3
+2,0,Asian,3,2,1,Grilled Prawns,"Prawns, Garlic, Lemon, Olive Oil",5,Light,24,2
+1,2,Asian,1,1,1,Gongura Pachadi,"Sorrel Leaves, Spices, Garlic, Chilies",1,Light,24,1
+3,2,South Indian,1,0,0,Pasta Carbonara,"Pasta, Eggs, Bacon, Cheese",3,Heavy,79,2
+3,2,Asian,2,2,1,Pav Bhaji,"Vegetables, Butter, Bread, Spices",1,Heavy,22,4
+3,1,Modern Indian,2,1,1,Chole Bhature,"Chickpeas, Flour, Spices, Yogurt",2,Heavy,70,5
+2,2,Asian,3,3,2,Falafel Wrap,"Chickpeas, Flour, Spices, Tahini",2,Heavy,41,4
+0,1,Punjabi,1,2,0,Grilled Prawns,"Prawns, Garlic, Lemon, Olive Oil",4,Heavy,46,5
+3,1,Italian,2,1,0,Khar,"Vegetables, Pulses, Alkali, Spices",1,Heavy,91,4
+0,1,Parsi,2,2,2,Kozhukattai,"Rice Flour, Coconut, Jaggery, Cardamom",3,Moderate,39,1
+3,1,Mediterranean,3,2,2,Vada Pav,"Potato, Bread, Spices, Chutney",5,Moderate,26,2
+3,2,Parsi,1,2,1,Vindaloo,"Pork, Vinegar, Spices, Garlic",3,Moderate,13,3
+3,0,South Indian,2,2,0,Misal Pav,"Sprouts, Spices, Bread, Onions",2,Light,53,4
+0,1,Seafood,2,1,1,Spring Rolls,"Cabbage, Carrot, Mushrooms, Wrapper",2,Moderate,75,4
+1,0,Seafood,2,0,1,Undhiyu,"Vegetables, Spices, Gram Flour, Oil",2,Heavy,50,4
+3,0,Parsi,1,0,1,Grilled Prawns,"Prawns, Garlic, Lemon, Olive Oil",2,Heavy,26,3
+3,2,Asian,3,3,1,Misal Pav,"Sprouts, Spices, Bread, Onions",1,Light,31,5
+0,2,Mughlai,2,2,0,Makki Di Roti,"Cornmeal, Water, Ghee, Spices",1,Moderate,94,3
+1,0,Italian,1,0,0,Bebinca,"Coconut Milk, Flour, Sugar, Eggs",3,Heavy,91,3
+2,0,Modern Indian,1,1,0,Sanpiau,"Rice, Fish, Vegetables, Spices",4,Light,41,2
+3,0,Continental,1,3,0,Sanpiau,"Rice, Fish, Vegetables, Spices",1,Light,33,2
+0,2,South Indian,3,0,0,Dhokla,"Rice, Chickpeas, Yogurt, Spices",4,Heavy,72,3
+0,1,Asian,1,3,0,Eromba,"Fermented Fish, Vegetables, Chilies, Garlic",4,Light,42,2
+0,0,Goan,2,3,2,Gutti Vankaya,"Eggplant, Spices, Tamarind, Onions",5,Moderate,41,5
+0,2,South Indian,3,2,1,Patra,"Colocasia Leaves, Gram Flour, Spices, Tamarind",1,Moderate,49,3
+0,1,Mughlai,1,2,1,Zunka Bhakar,"Chickpea Flour, Spices, Onions, Coriander",4,Moderate,94,4
+0,1,Italian,1,0,1,Rava Idli,"Semolina, Yogurt, Mustard Seeds, Spices",4,Light,28,1
+2,1,Continental,2,3,1,Lamb Chops,"Lamb, Garlic, Rosemary, Olive Oil",1,Heavy,28,1
+3,1,South Indian,2,1,2,Spring Rolls,"Cabbage, Carrot, Mushrooms, Wrapper",5,Moderate,61,1
+3,0,North Indian,2,2,2,Pani Puri,"Flour, Spices, Potatoes, Tamarind",3,Heavy,27,2
+3,0,Seafood,2,2,1,Rogan Josh,"Lamb, Yogurt, Spices, Onions",1,Light,88,1
+1,0,Asian,1,1,0,Chicken Biryani,"Chicken, Rice, Spices, Yogurt",5,Light,55,5
+2,1,Punjabi,3,1,0,Kadhi,"Yogurt, Chickpea Flour, Spices, Onions",1,Light,34,5
+0,1,Parsi,3,0,0,Sarson Ka Saag,"Mustard Greens, Spices, Ghee, Onions",5,Moderate,31,3
+1,1,Continental,1,3,0,Fish Curry,"Fish, Coconut Milk, Spices, Tamarind",3,Light,93,2
+0,2,Seafood,3,3,2,Pesarattu,"Green Gram, Ginger, Spices, Onions",4,Heavy,58,4
+2,1,Modern Indian,3,3,0,Gutti Vankaya,"Eggplant, Spices, Tamarind, Onions",2,Light,51,4
+0,0,Parsi,1,3,1,Neer Dosa,"Rice, Coconut, Water, Salt",3,Light,38,5
+0,0,Parsi,3,0,1,Appam,"Rice, Coconut, Yeast, Salt",1,Heavy,21,5
+0,0,Punjabi,2,2,1,Sambar,"Lentils, Tamarind, Spices, Vegetables",5,Light,19,1
+3,2,Mediterranean,1,1,0,Chole Bhature,"Chickpeas, Flour, Spices, Yogurt",3,Moderate,74,1
+0,1,Punjabi,3,1,0,Pani Puri,"Flour, Spices, Potatoes, Tamarind",2,Heavy,16,2
+1,0,Asian,1,3,0,Gongura Pachadi,"Sorrel Leaves, Spices, Garlic, Chilies",2,Light,55,5
+0,0,Punjabi,1,2,0,Appam,"Rice, Coconut, Yeast, Salt",4,Light,85,3
+3,0,North Indian,3,2,2,Masor Tenga,"Fish, Tomatoes, Spices, Lime",2,Moderate,53,4
+1,1,Asian,2,0,0,Undhiyu,"Vegetables, Spices, Gram Flour, Oil",4,Heavy,76,1
+0,2,Mediterranean,2,1,2,Khar,"Vegetables, Pulses, Alkali, Spices",4,Heavy,56,2
+2,1,Seafood,2,0,1,Neer Dosa,"Rice, Coconut, Water, Salt",3,Moderate,87,3
+3,0,Goan,1,2,2,Chemmeen Curry,"Prawns, Coconut Milk, Spices, Tamarind",2,Light,44,1
+2,2,Modern Indian,1,3,0,Handvo,"Rice, Lentils, Spices, Vegetables",3,Moderate,95,2
+3,1,Modern Indian,1,3,2,Sushi Rolls,"Rice, Seaweed, Fish, Vegetables",4,Moderate,61,2
+3,0,Mughlai,1,3,0,Kadala Curry,"Chickpeas, Coconut, Spices, Onions",2,Light,91,2
+2,0,Mediterranean,1,0,1,Sarson Ka Saag,"Mustard Greens, Spices, Ghee, Onions",1,Light,83,1
+3,2,Mediterranean,1,0,0,Seafood Paella,"Rice, Seafood, Saffron, Vegetables",1,Moderate,41,3
+2,1,Modern Indian,2,3,2,Bebinca,"Coconut Milk, Flour, Sugar, Eggs",4,Light,67,4
+0,1,Seafood,3,1,1,Mysore Pak,"Gram Flour, Ghee, Sugar, Cardamom",1,Moderate,57,2
+3,1,South Indian,1,3,0,Masor Tenga,"Fish, Tomatoes, Spices, Lime",5,Light,46,4
+2,0,North Indian,1,0,2,Lamb Chops,"Lamb, Garlic, Rosemary, Olive Oil",3,Heavy,76,3
+2,0,Seafood,3,3,0,Tandoori Chicken,"Chicken, Yogurt, Spices, Lemon",1,Light,26,5
+2,0,Parsi,3,2,2,Prawn Balchao,"Prawns, Vinegar, Spices, Tomatoes",5,Heavy,75,5
+1,2,North Indian,3,1,2,Vegan Salad,"Lettuce, Tomato, Cucumber, Olive Oil",3,Light,26,4
+3,2,Seafood,2,3,0,Undhiyu,"Vegetables, Spices, Gram Flour, Oil",3,Moderate,12,2
+0,2,North Indian,3,2,2,Lamb Chops,"Lamb, Garlic, Rosemary, Olive Oil",3,Light,77,3
+3,1,North Indian,3,0,0,Zunka Bhakar,"Chickpea Flour, Spices, Onions, Coriander",5,Moderate,35,2
+0,2,Continental,1,0,1,Grilled Prawns,"Prawns, Garlic, Lemon, Olive Oil",3,Moderate,67,3
+1,2,Mughlai,3,2,0,Vindaloo,"Pork, Vinegar, Spices, Garlic",1,Heavy,47,3
+2,2,Punjabi,2,0,2,Rogan Josh,"Lamb, Yogurt, Spices, Onions",4,Heavy,15,1
+1,1,South Indian,2,2,0,Pav Bhaji,"Vegetables, Butter, Bread, Spices",5,Heavy,76,5
+0,0,Goan,3,1,0,Pani Puri,"Flour, Spices, Potatoes, Tamarind",1,Heavy,38,4
+3,2,Goan,1,0,0,Prawn Balchao,"Prawns, Vinegar, Spices, Tomatoes",4,Light,49,4
+1,0,Mediterranean,1,2,1,Hyderabadi Biryani,"Rice, Meat, Spices, Yogurt",5,Light,19,2
+2,1,Mughlai,2,2,0,Neer Dosa,"Rice, Coconut, Water, Salt",1,Heavy,87,5
+3,0,South Indian,3,3,0,Hyderabadi Biryani,"Rice, Meat, Spices, Yogurt",3,Heavy,97,1
+1,1,Seafood,3,3,2,Daal Baati Churma,"Lentils, Wheat, Ghee, Spices",5,Moderate,43,3
+3,2,Mughlai,3,3,0,Chicken Biryani,"Chicken, Rice, Spices, Yogurt",3,Heavy,17,2
+1,0,Asian,2,3,2,Sarson Ka Saag,"Mustard Greens, Spices, Ghee, Onions",1,Heavy,21,2
+2,2,Italian,3,2,2,Burrito,"Tortilla, Beans, Rice, Meat",1,Heavy,55,4
+1,2,Mediterranean,1,3,2,Seafood Paella,"Rice, Seafood, Saffron, Vegetables",5,Light,42,3
+2,0,Seafood,1,1,1,Pani Puri,"Flour, Spices, Potatoes, Tamarind",5,Moderate,37,4
+3,2,Continental,3,2,2,Gongura Pachadi,"Sorrel Leaves, Spices, Garlic, Chilies",2,Moderate,98,3
+1,2,South Indian,3,1,2,Masor Tenga,"Fish, Tomatoes, Spices, Lime",1,Light,24,4
+3,1,Asian,1,1,1,Kozhukattai,"Rice Flour, Coconut, Jaggery, Cardamom",4,Light,53,1
+1,2,Punjabi,2,1,0,Lamb Chops,"Lamb, Garlic, Rosemary, Olive Oil",5,Light,24,5
+3,0,Asian,2,2,0,Kashmiri Dum Aloo,"Potatoes, Yogurt, Spices, Onions",3,Light,23,2
+0,1,Asian,3,3,1,Prawn Balchao,"Prawns, Vinegar, Spices, Tomatoes",5,Moderate,89,3
+3,2,Modern Indian,3,3,0,Mutton Curry,"Mutton, Spices, Onions, Tomatoes",3,Light,60,5
+0,2,North Indian,1,3,0,Chole Bhature,"Chickpeas, Flour, Spices, Yogurt",3,Heavy,61,5
+2,1,Goan,2,3,2,Hyderabadi Biryani,"Rice, Meat, Spices, Yogurt",4,Heavy,30,3
+3,2,Seafood,3,2,2,Tandoori Chicken,"Chicken, Yogurt, Spices, Lemon",2,Light,78,3
+1,1,Asian,3,0,1,Mysore Pak,"Gram Flour, Ghee, Sugar, Cardamom",3,Heavy,83,3
+3,0,Parsi,3,3,2,Aloo Pitika,"Potatoes, Mustard Oil, Onions, Chilies",1,Light,68,2
+2,2,Seafood,1,1,2,Rogan Josh,"Lamb, Yogurt, Spices, Onions",3,Light,17,1
+0,2,South Indian,2,0,1,Daal Baati Churma,"Lentils, Wheat, Ghee, Spices",1,Moderate,76,2
+0,0,Modern Indian,3,1,1,Vindaloo,"Pork, Vinegar, Spices, Garlic",5,Moderate,87,1
+1,0,Italian,1,0,2,Vada Pav,"Potato, Bread, Spices, Chutney",2,Heavy,59,4
+3,0,Mughlai,2,3,2,Bebinca,"Coconut Milk, Flour, Sugar, Eggs",3,Moderate,42,3
+3,0,South Indian,3,2,1,Hyderabadi Biryani,"Rice, Meat, Spices, Yogurt",1,Moderate,86,4
+0,2,Modern Indian,1,3,0,Neer Dosa,"Rice, Coconut, Water, Salt",4,Light,55,1
+0,1,Modern Indian,3,0,1,Dhokla,"Rice, Chickpeas, Yogurt, Spices",5,Light,94,5
+0,1,Seafood,1,2,1,Bengali Fish Fry,"Fish, Breadcrumbs, Spices, Eggs",5,Light,47,4
+0,2,Seafood,1,1,0,Chicken Cafreal,"Chicken, Spices, Vinegar, Garlic",5,Moderate,73,5
+3,1,Mediterranean,2,1,0,Chicken Biryani,"Chicken, Rice, Spices, Yogurt",5,Moderate,68,5
+0,0,Modern Indian,2,2,2,Prawn Balchao,"Prawns, Vinegar, Spices, Tomatoes",2,Moderate,56,5
+2,2,Modern Indian,1,2,1,Lamb Chops,"Lamb, Garlic, Rosemary, Olive Oil",4,Light,88,1
+2,1,Italian,3,2,1,Kozhukattai,"Rice Flour, Coconut, Jaggery, Cardamom",4,Moderate,29,5
+3,2,Modern Indian,1,3,2,Pasta Carbonara,"Pasta, Eggs, Bacon, Cheese",3,Heavy,21,1
+2,1,Mediterranean,3,3,0,Butter Chicken,"Chicken, Butter, Cream, Spices",5,Moderate,78,5
+3,0,Mughlai,2,1,1,Rasgulla,"Chhena, Sugar, Water, Cardamom",1,Light,73,1
+1,2,Goan,1,1,2,Bengali Fish Fry,"Fish, Breadcrumbs, Spices, Eggs",2,Moderate,51,4
+1,0,Modern Indian,3,1,0,Chicken Biryani,"Chicken, Rice, Spices, Yogurt",2,Light,88,2
+2,1,Seafood,3,0,2,Paneer Tikka,"Paneer, Yogurt, Spices, Lemon",3,Moderate,29,5
+2,2,Parsi,1,2,0,Seafood Paella,"Rice, Seafood, Saffron, Vegetables",5,Heavy,72,2
+0,1,Continental,1,3,0,Lamb Chops,"Lamb, Garlic, Rosemary, Olive Oil",3,Light,29,4
+0,1,Modern Indian,2,1,0,Pasta Carbonara,"Pasta, Eggs, Bacon, Cheese",2,Light,21,2
+2,2,Modern Indian,2,2,0,Burrito,"Tortilla, Beans, Rice, Meat",5,Heavy,31,4
+3,2,Punjabi,2,0,1,Pav Bhaji,"Vegetables, Butter, Bread, Spices",4,Heavy,70,5
+1,0,Continental,1,3,1,Sambar,"Lentils, Tamarind, Spices, Vegetables",2,Moderate,94,3
+1,1,Modern Indian,1,2,1,Vada Pav,"Potato, Bread, Spices, Chutney",1,Heavy,38,1
+2,2,Italian,3,0,1,Misal Pav,"Sprouts, Spices, Bread, Onions",2,Light,88,2
+3,0,Mediterranean,1,2,0,Masala Dosa,"Rice, Lentils, Potato, Spices",2,Light,76,5
+2,2,Continental,2,1,1,Vegan Salad,"Lettuce, Tomato, Cucumber, Olive Oil",5,Heavy,25,2
+2,0,South Indian,3,0,2,Pesarattu,"Green Gram, Ginger, Spices, Onions",5,Moderate,100,5
+2,2,Modern Indian,1,2,0,Tofu Stir Fry,"Tofu, Vegetables, Soy Sauce, Ginger",4,Heavy,54,4
+2,0,Mediterranean,1,1,0,Pesarattu,"Green Gram, Ginger, Spices, Onions",5,Heavy,54,5
+1,1,Parsi,2,2,1,Pulihora,"Rice, Tamarind, Spices, Peanuts",3,Light,35,2
+3,2,Mediterranean,1,3,2,Butter Chicken,"Chicken, Butter, Cream, Spices",1,Heavy,100,5
+1,0,North Indian,3,1,1,Hyderabadi Biryani,"Rice, Meat, Spices, Yogurt",4,Light,24,5
+2,0,North Indian,2,2,2,Lamb Chops,"Lamb, Garlic, Rosemary, Olive Oil",5,Light,80,3
+1,0,Punjabi,1,2,1,Tandoori Chicken,"Chicken, Yogurt, Spices, Lemon",3,Heavy,93,2
+1,0,Continental,2,1,0,Dhokla,"Rice, Chickpeas, Yogurt, Spices",2,Light,84,2
+3,1,North Indian,1,3,2,Undhiyu,"Vegetables, Spices, Gram Flour, Oil",5,Moderate,29,4
+0,1,South Indian,1,0,1,Gutti Vankaya,"Eggplant, Spices, Tamarind, Onions",3,Moderate,27,4
+2,2,North Indian,3,3,2,Masor Tenga,"Fish, Tomatoes, Spices, Lime",2,Heavy,47,5
+2,2,Mughlai,1,2,1,Sambar,"Lentils, Tamarind, Spices, Vegetables",3,Heavy,48,3
+3,0,Goan,3,0,0,Aloo Pitika,"Potatoes, Mustard Oil, Onions, Chilies",2,Heavy,19,3
+2,0,Asian,3,0,0,Thalipeeth,"Flours, Spices, Onions, Coriander",4,Heavy,70,1
+3,0,Seafood,3,1,0,Sambar,"Lentils, Tamarind, Spices, Vegetables",1,Heavy,99,5
+1,0,Parsi,2,3,0,Makki Di Roti,"Cornmeal, Water, Ghee, Spices",4,Heavy,83,5
+0,0,Modern Indian,1,3,2,Vindaloo,"Pork, Vinegar, Spices, Garlic",3,Light,37,3
+1,1,Mughlai,3,3,2,Chemmeen Curry,"Prawns, Coconut Milk, Spices, Tamarind",2,Light,34,2
+2,2,Punjabi,2,1,1,Handvo,"Rice, Lentils, Spices, Vegetables",5,Moderate,97,1
+0,0,Modern Indian,1,3,0,Bengali Fish Fry,"Fish, Breadcrumbs, Spices, Eggs",3,Moderate,57,2
+0,1,Modern Indian,3,0,1,Beef Stroganoff,"Beef, Mushrooms, Sour Cream, Onions",1,Light,93,3
+0,1,Italian,1,3,2,Paneer Tikka,"Paneer, Yogurt, Spices, Lemon",5,Moderate,80,2
+1,0,Seafood,3,0,2,Sushi Rolls,"Rice, Seaweed, Fish, Vegetables",2,Moderate,37,4
+3,2,Continental,1,0,2,Bebinca,"Coconut Milk, Flour, Sugar, Eggs",5,Heavy,38,2
+0,2,Asian,1,3,2,Burrito,"Tortilla, Beans, Rice, Meat",5,Light,27,5
+2,2,Punjabi,2,2,2,Pani Puri,"Flour, Spices, Potatoes, Tamarind",5,Heavy,45,2
+3,1,Italian,2,2,0,Pasta Carbonara,"Pasta, Eggs, Bacon, Cheese",1,Moderate,69,4
+3,0,Continental,2,2,1,Sanpiau,"Rice, Fish, Vegetables, Spices",4,Heavy,12,3
+1,1,Parsi,2,3,0,Bamboo Shoot Fry,"Bamboo Shoots, Spices, Oil, Onions",4,Heavy,65,2
+2,1,Seafood,1,3,2,Vindaloo,"Pork, Vinegar, Spices, Garlic",1,Heavy,37,2
+0,0,Punjabi,1,0,1,Pani Puri,"Flour, Spices, Potatoes, Tamarind",2,Heavy,58,3
+1,0,Modern Indian,3,3,2,Rasgulla,"Chhena, Sugar, Water, Cardamom",3,Light,17,5
+0,0,Goan,3,2,0,Kadala Curry,"Chickpeas, Coconut, Spices, Onions",5,Moderate,78,4
+1,2,North Indian,2,2,1,Tandoori Chicken,"Chicken, Yogurt, Spices, Lemon",5,Light,95,5
+1,1,Modern Indian,1,0,1,Bamboo Shoot Fry,"Bamboo Shoots, Spices, Oil, Onions",1,Light,94,4
+2,1,North Indian,2,0,1,Aloo Pitika,"Potatoes, Mustard Oil, Onions, Chilies",1,Heavy,98,5
+2,0,Seafood,1,3,2,Handvo,"Rice, Lentils, Spices, Vegetables",1,Light,82,3
+0,2,Modern Indian,2,0,0,Patra,"Colocasia Leaves, Gram Flour, Spices, Tamarind",4,Moderate,54,4
+1,1,Mediterranean,3,3,0,Gongura Pachadi,"Sorrel Leaves, Spices, Garlic, Chilies",4,Heavy,99,1
+1,0,Parsi,3,3,0,Bamboo Shoot Fry,"Bamboo Shoots, Spices, Oil, Onions",1,Light,62,5
+2,1,Continental,2,2,2,Grilled Prawns,"Prawns, Garlic, Lemon, Olive Oil",4,Light,66,2
+3,2,South Indian,2,1,1,Bamboo Shoot Fry,"Bamboo Shoots, Spices, Oil, Onions",5,Light,37,5
+1,0,Continental,2,1,0,Chemmeen Curry,"Prawns, Coconut Milk, Spices, Tamarind",4,Heavy,90,1
+0,2,Seafood,2,2,0,Burrito,"Tortilla, Beans, Rice, Meat",2,Heavy,51,3
+3,2,Continental,3,3,1,Chicken Cafreal,"Chicken, Spices, Vinegar, Garlic",1,Heavy,48,1
+1,2,Asian,2,1,0,Aloo Pitika,"Potatoes, Mustard Oil, Onions, Chilies",2,Moderate,16,2
+3,1,North Indian,3,1,0,Butter Chicken,"Chicken, Butter, Cream, Spices",3,Heavy,42,1
+3,0,Mughlai,1,2,1,Paneer Tikka,"Paneer, Yogurt, Spices, Lemon",4,Heavy,93,4
+2,0,Punjabi,3,1,0,Aloo Pitika,"Potatoes, Mustard Oil, Onions, Chilies",4,Moderate,97,4
+1,1,Punjabi,3,2,2,Kadala Curry,"Chickpeas, Coconut, Spices, Onions",4,Moderate,14,5
+1,2,South Indian,3,0,1,Pani Puri,"Flour, Spices, Potatoes, Tamarind",4,Heavy,58,4
+2,1,Mughlai,2,0,0,Zunka Bhakar,"Chickpea Flour, Spices, Onions, Coriander",4,Moderate,18,2
+0,0,North Indian,1,0,1,Bebinca,"Coconut Milk, Flour, Sugar, Eggs",3,Light,69,5
+0,1,Asian,1,3,0,Rava Idli,"Semolina, Yogurt, Mustard Seeds, Spices",2,Moderate,49,3
+1,2,Goan,1,1,0,Sorpotel,"Pork, Vinegar, Spices, Onions",3,Moderate,12,4
+1,2,Punjabi,2,3,0,Pav Bhaji,"Vegetables, Butter, Bread, Spices",3,Light,93,2
+1,1,Parsi,1,0,0,Masala Dosa,"Rice, Lentils, Potato, Spices",1,Heavy,34,5
+1,0,Goan,2,1,0,Spring Rolls,"Cabbage, Carrot, Mushrooms, Wrapper",5,Moderate,95,1
+3,2,North Indian,1,2,0,Patra,"Colocasia Leaves, Gram Flour, Spices, Tamarind",5,Heavy,66,5
+3,1,Goan,2,1,0,Khar,"Vegetables, Pulses, Alkali, Spices",4,Light,94,5
+1,2,Asian,1,1,2,Masala Dosa,"Rice, Lentils, Potato, Spices",3,Heavy,57,2
+0,0,South Indian,2,3,0,Tofu Stir Fry,"Tofu, Vegetables, Soy Sauce, Ginger",4,Heavy,12,4
+3,1,Asian,3,2,0,Lamb Chops,"Lamb, Garlic, Rosemary, Olive Oil",2,Moderate,100,1
+2,0,Continental,1,0,2,Masor Tenga,"Fish, Tomatoes, Spices, Lime",4,Light,82,2
